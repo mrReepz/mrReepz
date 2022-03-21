@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Reepz</h1>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=reepz42" alt="reepz42" /></a> </p>
 
 - 🔭 I’m currently working on **Various discord bots, like eris and wavy**
 

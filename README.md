@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on **Various discord bots, like eris and wavy**
 
-- 🌱 I’m currently learning **html, css, javascript, php, c++**
+- 🌱 I’m currently learning **javascript, php, c++**
 
 <p align="left">
 </p>

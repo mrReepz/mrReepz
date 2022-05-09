@@ -1,4 +1,4 @@
-<h1 align="center">Hi there👋, I'm Reepz and  i am a Web Developer and game designer</h1>
+<h1 align="center">Hi there👋, I'm Reepz and  i am a Web Developer</h1>
 
 # 💫About Me :
 I am currently working on various personal projects ( websites, bots, tools )
